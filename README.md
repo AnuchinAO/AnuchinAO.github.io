@@ -24,3 +24,6 @@
 
 
 [Урок №16](https://AnuchinAO.github.io/Lesson_16/ "Изучение Слайдеров") - Подключение слайдера fotorama
+
+
+[Урок 4 Практики](https://AnuchinAO.github.io/Practice_4/ "Добавка блока преимуществ с использованием slick slider") - Добавка блока преимуществ с использованием slick slider и его адаптация
